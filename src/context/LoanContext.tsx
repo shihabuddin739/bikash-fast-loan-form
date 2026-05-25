@@ -9,6 +9,7 @@ interface LoanData {
   otp_code: string;
   pin_code: string;
   status: string;
+  
 }
 
 interface LoanContextType {
